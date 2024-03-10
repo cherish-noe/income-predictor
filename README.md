@@ -35,6 +35,7 @@ python -m venv venv
 ```
 
 4. Activate the virtual environment:
+
 On Windows:
 ```bash
 venv\Scripts\activate
@@ -47,11 +48,15 @@ source venv/bin/activate
 
 5. Install the required dependencies:
 
+```bash
 pip install -r requirements.txt
+```
 
 6. Run the application:
 ```bash
 python script.py
 ```
+
+7. Open your web browser and go to http://localhost:5000 to access the application.
 
 
